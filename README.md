@@ -37,7 +37,7 @@ PG_DATABASE=your_database
 python main.py
 
 🔮 Future Plans
-- ⏰ Automate daily data fetching using scheduled jobs (e.g., cron or cloud tasks)
+- ⏰ Automate daily data fetching using scheduled jobs (e.g., Airflow)
 - 🛠 Add robust error handling and logging for reliability
 - 🔄 Implement incremental updates to avoid duplicates
 - ⏱ Extend support to intraday data and ticker metadata
