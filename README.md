@@ -37,12 +37,12 @@ PG_DATABASE=your_database
 python main.py
 
 🔮 Future Plans
-⏰ Automate daily data fetching using scheduled jobs (e.g., cron or cloud tasks)
-🛠 Add robust error handling and logging for reliability
-🔄 Implement incremental updates to avoid duplicates
-⏱ Extend support to intraday data and ticker metadata
-⚙️ Improve configuration management for easier deployment
-📚 Document the project thoroughly and credit contributors
+- ⏰ Automate daily data fetching using scheduled jobs (e.g., cron or cloud tasks)
+- 🛠 Add robust error handling and logging for reliability
+- 🔄 Implement incremental updates to avoid duplicates
+- ⏱ Extend support to intraday data and ticker metadata
+- ⚙️ Improve configuration management for easier deployment
+- 📚 Document the project thoroughly and credit contributors
 
 📝 Notes
 - Ensure PostgreSQL is running and properly configured
